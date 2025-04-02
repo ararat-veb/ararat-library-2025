@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="hy">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ARARAT EDUCATION & SCIENCE</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fff8e1;
+            color: #333;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #ffcc00;
+            padding: 20px;
+            border-radius: 10px;
+        }
+        iframe {
+            width: 100%;
+            height: 500px;
+            border: none;
+        }
+        img {
+            margin-top: 20px;
+            width: 150px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>ARARAT EDUCATION & SCIENCE</h1>
+        <p>Սկանավորեք QR կոդը կամ ընթերցեք փաստաթուղթը ստորև:</p>
+        <iframe src="/mnt/data/%D4%B1%D6%80%D5%BF%D5%B5%D5%B8%D5%B4%20,%20%D5%8F%D5%B8%D6%82%D6%80%20%D6%83%D5%A1%D5%A9%D5%A5%D5%A9%20%20PDF.pdf"></iframe>
+        <img src="qrcode.png" alt="QR կոդ">
+    </div>
+</body>
+</html>
